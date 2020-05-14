@@ -4,8 +4,8 @@
 	<identity>
 		<version number="1.1"/>
 		<generation date="2004-06-04" />
-		<language type="de" /> 
-		<territory type="CH" /> 
+		<language type="de" />
+		<territory type="CH" />
 	</identity>
 	<localeDisplayNames>
 		<territories>
@@ -40,7 +40,7 @@
 		<decimalFormats>
 			<decimalFormatLength >
 				<decimalFormat >
-					<pattern>#,##0.###;-#,##0.###</pattern>
+					<pattern>#,##0.##########;-#,##0.##########</pattern>
 				</decimalFormat>
 			</decimalFormatLength >
 		</decimalFormats>
